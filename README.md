@@ -1,9 +1,9 @@
-# 🎬 Movie Rental Store Analysis  
+# Movie Rental Store Analysis  
 **Power BI • Excel EDA • SQL • Business Intelligence**
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 This project presents a **comprehensive business intelligence and analytics solution** for a DVD rental store using the **Sakila Movie Rental Database**. The analysis focuses on understanding **customer behavior, rental trends, film performance, inventory efficiency, staff and store operations, geographic demand patterns, and actor influence**.
 
 The primary objective is to support **data-driven decision-making** by transforming raw transactional data into **actionable insights** through structured **Excel-based exploratory data analysis (EDA)** and **interactive Power BI dashboards**. The project is designed as a full-cycle analytics workflow, from raw data ingestion to executive-ready reporting.
@@ -12,7 +12,7 @@ A **MECE (Mutually Exclusive, Collectively Exhaustive)** analytical framework is
 
 ---
 
-## 🎯 Business Objectives
+## Business Objectives
 - Understand **revenue drivers and seasonality**
 - Segment customers and analyze **loyalty behavior**
 - Evaluate **film, category, and actor performance**
@@ -23,7 +23,7 @@ A **MECE (Mutually Exclusive, Collectively Exhaustive)** analytical framework is
 
 ---
 
-## 🧱 Data Model & Architecture
+## Data Model & Architecture
 The analysis is built on **15+ normalized relational tables**, covering the entire operational lifecycle of a movie rental business.
 
 ### Core Entities
@@ -41,35 +41,35 @@ An **Entity Relationship (ER) Diagram** is included in the repository to visuall
 
 ---
 
-## 🔍 Methodology & Workflow
+## Methodology & Workflow
 
-### 1️⃣ Data Acquisition
+### 1️ Data Acquisition
 - Raw data sourced from the Sakila DVD Rental dataset
 - CSV files imported for analysis and modeling
 
-### 2️⃣ Data Cleaning & Preparation
+### 2️ Data Cleaning & Preparation
 - Handled missing values, duplicates, and inconsistencies
 - Standardized categorical fields and date formats
 - Verified relational integrity across tables
 
-### 3️⃣ Exploratory Data Analysis (EDA)
+### 3️ Exploratory Data Analysis (EDA)
 - Performed **EDA in Microsoft Excel** using pivot tables, charts, and aggregations
 - Answered structured business problem statements related to customers, revenue, rentals, inventory, and geography
 - Identified trends, anomalies, and correlations for further analysis
 
-### 4️⃣ SQL-Based Analysis
+### 4️ SQL-Based Analysis
 - Used SQL joins and aggregations to extract analytical datasets
 - Addressed complex business questions across multiple tables
 - Prepared structured outputs for Excel and Power BI consumption
 
-### 5️⃣ Power BI Visualization
+### 5️ Power BI Visualization
 - Built a **multi-page interactive Power BI dashboard**
 - Created KPIs, slicers, drill-downs, and cross-filtered visuals
 - Translated analytical findings into clear business narratives
 
 ---
 
-## 📊 Key KPIs & Insights
+## Key KPIs & Insights
 
 ### Revenue & Seasonality
 - **67.4K total revenue** from **16K+ rental transactions**
@@ -100,7 +100,7 @@ An **Entity Relationship (ER) Diagram** is included in the repository to visuall
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 - **Microsoft Excel** – Exploratory Data Analysis (EDA)  
 - **SQL (MySQL)** – Data extraction, joins, aggregations  
 - **Power BI** – Interactive dashboards and KPI reporting  
@@ -108,7 +108,7 @@ An **Entity Relationship (ER) Diagram** is included in the repository to visuall
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 ```text
 Movie-Rental-Store-Analysis/
 │
